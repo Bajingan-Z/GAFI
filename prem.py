@@ -597,7 +597,7 @@ def hasil():
 	if len(ok) != 0 or len(cp) != 0:
 		exit(prem.awokawokaowkwoawkwowksheheheiwoansvdejeike_dekura_sayang())
 	else:
-		exit("\n%s [%s•%s] Kalau Ga Ada Hasil Dicoba Lagi Teman\n%s [%s!%s] Makanya Gans Biar Dapat Result :v"%(p,b,p,p,m,p))
+		exit("\n%s [%s•%s] Kalau Ga Ada Hasil Dicoba Lagi Bro\n%s [%s!%s] Makanya Gans Biar Dapat Result Subrek Dlu Youtube Saya :v"%(p,b,p,p,m,p))
 
 def awokawokaowkwoawkwowksheheheiwoansvdejeike_dekura_sayang():
     global token

@@ -2,7 +2,7 @@
 # DOWNLOAD APK TERMUX 
 
 Klick di 👉[SINI](https://f-droid.org/repo/com.termux_117.apk), Untuk Mendownload Nya Buka Aplikasi Ketikan Perintah Dibawah .
-
+# SCREENSHOT
 ![Screenshot_20220325-141635_Termux](https://user-images.githubusercontent.com/95204908/160073127-62380b16-0c85-4d45-acd6-859bb28ec290.jpg)
 
 # INTALL COMMAND
